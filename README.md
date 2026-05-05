@@ -92,6 +92,7 @@ y = np.array([0, 0, 0, 1])
 
 model = Perceptron(input_dim=2, learning_rate=0.1)
 model.train(X, y)
+```
 
 ---
 
@@ -126,5 +127,9 @@ Each algorithm is implemented with:
 
 ## 💡 Author
 Derrick Nyongesa
+
 Data Scientist | Electrical & Electronics Engineer  
-Focus: Understanding Machine Learning Algorithims  
+
+Focus: Understanding Machine Learning Algorithims 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Derrick%20Nyongesa-blue?logo=linkedin)](https://www.linkedin.com/in/derrick-nyongesa/)
