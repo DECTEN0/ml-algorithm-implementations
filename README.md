@@ -33,6 +33,7 @@ ml-systems-lab/
 ├── src/
 │ ├── perceptron/
 │ │ ├── perceptron.py
+│ │ ├── xor.py
 │ │ └── init.py
 │ │
 │ ├── linear_models/
@@ -52,6 +53,7 @@ ml-systems-lab/
 │
 ├── tests/
 │ ├── test_perceptron.py
+│ │ ├── xor.py
 │ └── test_linear_models.py
 │
 ├── data/
@@ -71,6 +73,7 @@ ml-systems-lab/
 
 ### ✅ Supervised Learning
 - Perceptron (binary classification)
+- XOR (basic multilayer perceptron)
 
 ### 🔜 Coming Soon
 - Linear Regression
